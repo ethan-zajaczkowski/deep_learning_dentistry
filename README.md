@@ -8,7 +8,7 @@ To download and load the file for the first time, follow the steps below:
 2. Select “Clone Repository” in the top right corner.
 3. Copy URL from GitHub and paste into the “URL” Box
 4. On the left hand tab, under "Project", right click on "final_code", and near the bottom hover over "Mark Directory as" and select "Sources Root" (it should have a Blue Folder icon beside it).
-5. Go to: final_code/deep_learning_dentistry/package_downloader.py 
+5. Go to: deep_learning_dentistry/package_downloader.py 
 6. Here, you will see a list of packages that are used in this project. To ensure all are downloaded, hover over any package with a squiggle/tilde under it's name (package names follow "import" command). Then, select "install package __name__".
 7. Next, go to: "final_code/data/raw". Here, paste the following data files (ensure their names are unchanged):
 - Bleeding.xlsx
