@@ -19,9 +19,11 @@ To download and load the file for the first time, follow the steps below:
 - pockets
 - recessions
 - suppuration
+  
 In each of the folders, put all related files into each folder. For example, in bleeding, put the following files in:
 - Bleeding.xlsc
 - 2023_Bleeding.xlsx
+  
 Note: Inside of chart_restorative, only put ChartRestorative_final.xlsx here. Don't put any other file here.
 
 8. Then, go to: "code/deep_learning_dentistry/data_curation/data_curator.py". Run this file by clicking the Run Icon in the top right. This will process and curate all the data from the Raw file.
